@@ -12,7 +12,7 @@ math2001_init
 Remember to look at the pdf file for Homework 2 in Blackboard for extra instructions. -/
 
 @[autograded 4]
-theorem problem1 {x : ℚ} (h1 : x ^ 2 = 2) (h2 : 1 < x) : x = 2 := by
+theorem problem1 {x : ℚ} (h1 : x ^ 2 = 4) (h2 : 1 < x) : x = 2 := by
   sorry
 
 @[autograded 5]
