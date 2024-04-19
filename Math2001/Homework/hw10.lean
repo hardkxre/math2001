@@ -5,6 +5,8 @@ import Library.Basic
 import Library.Tactic.ModEq
 import AutograderLib
 
+math2001_init
+set_option quotPrecheck false
 
 
 /-! # Homework 10
